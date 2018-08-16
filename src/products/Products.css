@@ -1,0 +1,44 @@
+
+.products {
+    display: flex;
+    margin: 10px;
+}
+
+.product-column {
+
+    padding: 5px;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.product-update-button {
+    height: 20px;
+    justify-content: flex-end;
+}
+
+.product-single {
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    margin: 5px;
+}
+
+.products-list {
+    list-style: none;
+    padding: 0px;
+}
+
+.product-display {
+    background-color: #dddddd;
+    border-style: solid;
+    height: 87%;
+}
+
+.product-list-container {
+    width: 30%;
+}
+
+.product-display-container {
+    margin-left: auto;
+    width: 50%;
+}

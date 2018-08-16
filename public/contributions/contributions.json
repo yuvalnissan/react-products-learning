@@ -1,0 +1,45 @@
+{
+  "contributions": [
+    {
+      "id": "C1",
+      "aspects":{
+        "color": "Red",
+        "capacity": "64GB",
+        "GTIN": 1
+      }
+    },
+    {
+      "id": "C2",
+      "aspects":{
+        "color": "Crimson",
+        "capacity": "64GB",
+        "GTIN": 1
+      }
+    },
+    {
+      "id": "C3",
+      "aspects":{
+        "color": "Red",
+        "capacity": "64GB",
+        "GTIN": 2
+      }
+    },
+    {
+      "id": "C4",
+      "aspects":{
+        "color": "Red",
+        "capacity": "64GB",
+        "GTIN": 2
+      }
+    },
+    {
+      "id": "C5",
+      "aspects":{
+        "color": "Red",
+        "capacity": "64GB",
+        "GTIN": 2
+      }
+    }
+  ]
+
+}
